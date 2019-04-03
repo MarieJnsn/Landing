@@ -26,17 +26,19 @@ a:hover {
   color: f2c14e;
 }
 
-.banner{
+#banner{
   text-align: center;
+  background-image: url("https://unsplash.it/1000/600?random");
   background-size: cover;
   background-position: center;
   padding: 150px 0;
   color: white;
+
 }
-.banner h1 {
+#banner h1 {
   font-size: 50px;
 }
-.banner p {
+#banner p {
   margin-bottom: 40px;
   opacity: 0.8;
   font-size: 30px;
